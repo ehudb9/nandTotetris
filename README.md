@@ -1,7 +1,12 @@
-# nandTotetris
+# NandToTetris
 
-In this project I created tetrisGame starting for the most basic ligic gates. through the assembler and the compiler.
+In this project I started from creating the most basic ligic gates.\
+Through the Assembler translator and compiler to OS for "Jack" lang.
 
-In every subproject file you can find
-`.tst` and `.cmp` files.
-Used to test the subproject in the simulatoer that provided in NandToTetris course at the IDC.
+In every subproject file you can diffrent stage of the developmnet.
+For running and testing each program.
+Open NandToTettris simulators, provided in:
+https://www.nand2tetris.org/software
+
+  ``NandToTetris project course at the IDC.
+  2021``
