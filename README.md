@@ -1,6 +1,6 @@
 # NandToTetris
 
-In this project I started from creating the most basic ligic gates.\
+In this project I started from creating the most basic logic gates.\
 Through the Assembler translator and compiler to OS for "Jack" lang.
 
 In every subproject file you can diffrent stage of the developmnet.
